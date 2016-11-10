@@ -1,6 +1,6 @@
 import project1_media
 import fresh_tomatoes
-
+"""creating objects of class Python"""
 toy_story=project1_media.Python("Toy_story",
                          "http://img.lum.dolimg.com/v1/images/open-uri20150422-20810-m8zzyx_5670999f.jpeg?region=0,0,300,450",
                          "https://youtu.be/KYz2wyBy3kc")
