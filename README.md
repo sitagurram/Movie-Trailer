@@ -17,7 +17,7 @@ Once you have downloaded the Python MSI, simply navigate to the download locatio
 How to run application:
 After downloading all the files, just double-click on Project1.py.It will open up application.
 
-Contributor:
+Developed By:
 Sita Gurram
 
 
